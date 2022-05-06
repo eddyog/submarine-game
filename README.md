@@ -18,6 +18,6 @@ Submarine, shark, octopus, and coin images. Sound effects and dual screens.
 * Visual Studio Code Version: 1.54.3 (Universal).
 * Python Extension: Python 2.7.16.
 
-## All Rights reseverd
+### All Rights reseverd
 
-### Eddy Gonzalez
+## Eddy Gonzalez
